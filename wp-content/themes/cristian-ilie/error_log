@@ -1,0 +1,2 @@
+[18-Mar-2017 02:11:30 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/icristi/public_html/wp-content/themes/cristian-ilie/404.php on line 1
+[23-Mar-2017 19:28:48 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/icristi/public_html/wp-content/themes/cristian-ilie/404.php on line 1
