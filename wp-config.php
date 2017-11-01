@@ -28,6 +28,9 @@ define('DB_USER', 'root');
 /** MySQL database password */
 define('DB_PASSWORD', '');
 
+/** WP Limit fix**/
+define( 'WP_MEMORY_LIMIT', '256M' );
+
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
 
